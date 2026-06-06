@@ -1,0 +1,23 @@
+PROJECT TITLE:
+Customer Segmentation using Unsupervised Learning
+
+OBJECTIVE:
+To group customers based on purchasing behavior using K-Means clustering.
+
+ALGORITHM USED:
+K-Means Clustering
+
+TOOLS USED:
+Python
+Pandas
+Matplotlib
+Scikit-learn
+
+DATASET:
+Mall Customer Dataset
+
+OUTPUT:
+Customers are divided into multiple clusters based on spending behavior and annual income.
+
+CONCLUSION:
+Unsupervised learning helps identify hidden patterns in customer data without labels.
